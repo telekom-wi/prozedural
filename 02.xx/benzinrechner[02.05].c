@@ -1,7 +1,6 @@
 #include <stdio.h>
 
 int main(){
-        printf("\n-----Wilkommen zum Benzinrechner-----");
         float verbrauch, strecke;
 
         printf("\nBitte geben Sie den Verbrauch in Liter an: ");
